@@ -1,7 +1,8 @@
 // Talks only to our own Azure Function ("/api/chat"). No Azure endpoint,
 // key, or credential of any kind is ever referenced from browser code.
 
-const CHAT_ENDPOINT = "/api/chat";
+const CHAT_ENDPOINT =
+  "https://pooja-nature-fa-dmdef4hkgzguf5am.westus3-01.azurewebsites.net/api/chat";
 const REQUEST_TIMEOUT_MS = 30000;
 
 export class ChatApiError extends Error {
