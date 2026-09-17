@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Girl icon">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f9d7d0"/>
+      <stop offset="100%" stop-color="#f4b7c8"/>
+    </linearGradient>
+    <linearGradient id="dress" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#4f8d72"/>
+      <stop offset="100%" stop-color="#2d6a52"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#bg)"/>
+  <circle cx="32" cy="21" r="9" fill="#f7d7b7"/>
+  <path d="M22 22c0-7 5-12 10-12s10 5 10 12c0 1.5-.2 3-.7 4.3C39.9 28.3 35.8 30 32 30s-7.9-1.7-9.3-3.7A12 12 0 0 1 22 22Z" fill="#3e2a2a"/>
+  <path d="M18 54c2-9 8-13 14-13s12 4 14 13H18Z" fill="url(#dress)"/>
+  <path d="M28 28h8l3 13H25l3-13Z" fill="#f3f0ef" opacity="0.9"/>
+  <circle cx="27" cy="23" r="1.2" fill="#2e2a2d"/>
+  <circle cx="37" cy="23" r="1.2" fill="#2e2a2d"/>
+  <path d="M29 28c1.5 1.2 3.5 1.2 5 0" fill="none" stroke="#b66a67" stroke-width="1.7" stroke-linecap="round"/>
+  <circle cx="47" cy="18" r="5" fill="#f9c55a"/>
+  <path d="M47 10v16M39 18h16" stroke="#f7b73f" stroke-width="2" stroke-linecap="round"/>
+</svg>
